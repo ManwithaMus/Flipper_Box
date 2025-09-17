@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+GND1,TestPoint_Plated_Hole_D2.0mm,1,TestPoint,
+IR_REC1,Vishay_MINICAST-3Pin,1,TSOP382xx,
+IR_TRS1,LED_D3.0mm_IRBlack,1,TSAL4400,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,100Ω,
+"REC_IN1, TRS_IN1",TestPoint_Plated_Hole_D2.0mm,2,TestPoint_Vs,
+REC_OUT1,TestPoint_Plated_Hole_D2.0mm,1,TestPoint_OUT,
